@@ -1,3 +1,3 @@
-# jogo-de-acão
+# jogo-de-acao
 
 *FEITO PARA TRABALHO ESCOLAR*
